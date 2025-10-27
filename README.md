@@ -1,2 +1,5 @@
-# 25-561570-TK-63456_JundiErlanggaLuhurPrawira_MAGANGGMRT
-repository untuk magang gmrt
+Nama : Jundi Erlangga Luhur Prawira
+NIM : 25/561570/TK/63456
+
+
+
